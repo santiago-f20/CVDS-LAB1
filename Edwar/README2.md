@@ -18,7 +18,7 @@
 
 Este proyecto por medio de MArkDwn se está realizando para el primer laboratorio\
 de la clase de *ciclos de vida del desarrollo*. se podrá encontrar en la carpeta\
- **Edwar** del siguiente [GitHub](https://github.com/santiago-f20/CVDS-LAB1.git)\
+ **Edwar** del siguiente [GitHub](https://github.com/santiago-f20/CVDS-LAB1.git)
 
 ![Imgur](https://imgur.com/4kBy2mO.png)</p>
 

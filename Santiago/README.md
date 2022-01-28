@@ -1,7 +1,8 @@
 ![Imgur](https://imgur.com/4kBy2mO.png)</p>
 # Santiago Fetecua
-Archivo README para Laboratorio 1 clase CVDS. Link del repositorio [GitHub](https://github.com/santiago-f20/CVDS-LAB1) 
-## Información Personal
+Archivo README para las partes 2 y 3 del Laboratorio 1 clase CVDS. [Link](https://github.com/santiago-f20/CVDS-LAB1) del repositorio GitHub.
+### **PARTE II. - INTRODUCCIÓN GENERAL GIT.**
+#### **Información Personal**
 #### **Edad:** 20 años
 #### **Universidad:** Escuela Colombiana de Ingeniería
 #### **Carrera:** Ingeniería de Sistemas
@@ -19,3 +20,9 @@ Archivo README para Laboratorio 1 clase CVDS. Link del repositorio [GitHub](http
 4. Películas
 
 `helloworld`
+
+### **PARTE III. - GIT BRANCHING**
+#### Capturas de pantalla:
+![Imgur](https://imgur.com/yxvnvnm.png)</p>
+![Imgur](https://imgur.com/0iXaSmZ.png)</p>
+![Imgur](https://imgur.com/OxANzAP.png)</p>

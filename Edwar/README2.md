@@ -25,6 +25,4 @@ de la clase de *ciclos de vida del desarrollo*. se podrá encontrar en la carpet
  `helloWord = new HelloWord` 
 
 # Parte III - GIT BRANCHING
-
-![Imgur](https://imgur.com/gallery/UlswLSI.jpg)</p>
-![Imgur](https://imgur.com/gallery/UVtvMI2.jpg)</p>
+Imagenes adjuntas en el documento tipo PDF de la carpeta Edwar.

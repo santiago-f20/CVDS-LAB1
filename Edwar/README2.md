@@ -26,5 +26,5 @@ de la clase de *ciclos de vida del desarrollo*. se podrá encontrar en la carpet
 
 # Parte III - GIT BRANCHING
 
-![Imgur](https://imgur.com/a/yZZDikc.jpg)</p>
-![Imgur](https://imgur.com/a/xzDwCRV.jpg)</p>
+![Imgur](https://imgur.com/a/yZZDikc.png)</p>
+![Imgur](https://imgur.com/a/xzDwCRV.png)</p>
